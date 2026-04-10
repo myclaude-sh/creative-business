@@ -1,14 +1,15 @@
 name: creative-business
 version: 1.0.0
-type: bundle
-description: "4 mentes para negocios criativos: Chris Do (pricing criativo), Seth Godin (marketing/brand), Brad Frost (design systems), Don Norman (UX)"
+type: squad
+description: "4 minds for creative business: Chris Do (value-based pricing), Seth Godin (marketing/brand), Brad Frost (design systems), Don Norman (UX design). Use when: building, pricing, or scaling a creative business."
 price: 179
 license: MIT
-entry: BUNDLE.md
+entry: SQUAD.md
 tags:
   - creative
-  - design
-  - branding
-  - ux
+  - business
   - pricing
-  - freelancer
+  - design-systems
+  - UX
+  - branding
+  - freelance
