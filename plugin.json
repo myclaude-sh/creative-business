@@ -1,0 +1,27 @@
+{
+  "name": "creative-business",
+  "display_name": "Creative Business",
+  "description": "4 mentes para negocios criativos: Chris Do (pricing criativo), Seth Godin (marketing/brand), Brad Frost (design systems), Don Norman (UX)",
+  "version": "1.0.0",
+  "author": "vinicius-caetano",
+  "license": "MIT",
+  "source": {
+    "type": "github",
+    "owner": "myclaude-sh",
+    "repo": "creative-business"
+  },
+  "install": {
+    "type": "bundle",
+    "entry": "BUNDLE.md"
+  },
+  "tags": [
+    "creative",
+    "design",
+    "branding",
+    "ux",
+    "pricing",
+    "freelancer"
+  ],
+  "marketplace_url": "https://myclaude.sh/p/creative-business",
+  "price": 179
+}

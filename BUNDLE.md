@@ -1,27 +1,19 @@
-# Creative Business
-
-[![Available on MyClaude](https://myclaude.sh/badge/available.svg)](https://myclaude.sh/p/creative-business)
-
-4 mentes para negocios criativos: Chris Do (pricing criativo), Seth Godin (marketing/brand), Brad Frost (design systems), Don Norman (UX)
-
-| | |
-|---|---|
-| **Category** | bundle |
-| **Version** | 1.0.0 |
-| **Author** | [@vinicius-caetano](https://myclaude.sh/u/vinicius-caetano) |
-| **License** | MIT |
-| **Price** | $179.00 |
-
-## Installation
-
-This is a paid product. Purchase on the [MyClaude Marketplace](https://myclaude.sh/p/creative-business) to install.
-
-```bash
-# After purchase:
-myclaude install creative-business
-```
-
-## About
+---
+name: creative-business
+display_name: Creative Business
+description: "4 mentes para negocios criativos: Chris Do (pricing criativo), Seth Godin (marketing/brand), Brad Frost (design systems), Don Norman (UX)"
+version: 1.0.0
+author: vinicius-caetano
+license: MIT
+tags:
+  - "creative"
+  - "design"
+  - "branding"
+  - "ux"
+  - "pricing"
+  - "freelancer"
+marketplace_url: "https://myclaude.sh/p/creative-business"
+---
 
 # Creative Business
 
@@ -74,13 +66,3 @@ MIT
 
 <sub>Built with MyClaude Studio Engine</sub>
 
-
-## Tags
-
-`creative` `design` `branding` `ux` `pricing` `freelancer`
-
----
-
-*Published on [MyClaude Marketplace](https://myclaude.sh/p/creative-business) — the curated marketplace for the Claude Code ecosystem.*
-
-*This repository is automatically mirrored from MyClaude. To publish updates, use `myclaude publish`.*
